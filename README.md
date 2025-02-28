@@ -6,7 +6,7 @@
     </picture>
 </div>
 
-## Dependabot Demo Repository 12
+## Dependabot Demo Repository 123
 
 This repo contains some projects with outdated dependencies. Fork it to try out
 Dependabot :dependabot:!
