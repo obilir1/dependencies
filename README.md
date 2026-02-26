@@ -17,7 +17,7 @@ Dependabot :dependabot:!
 - In the left hand side navigation, click **Code security and analysis**
 - Enable **Dependabot security updates** or **Grouped security updates**
 - Dependabot will now start creating PRs for detected security vulnerabilities
-- Go into the **Security** tab and click **Dependabot** in the left hand side navigation to see what Dependabot is working on
+- Go into the **Security** tab and click **Dependabot** in the left hand side navigation to see what Dependabot is working on 
 
 <img width="929" alt="screenshot showing Dependabot working on Security Updates" src="https://github.com/dependabot/demo/assets/886768/9295c61a-631b-4c56-9c00-ff078874f362">
 
